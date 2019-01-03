@@ -1,2 +1,2 @@
-yarn install
-yarn run cypress open
+    yarn install
+    yarn run cypress open
